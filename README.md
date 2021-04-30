@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am a *catalysis* researcher, here to learn to code. 
+![output-onlinepngtools](https://user-images.githubusercontent.com/15354922/116706680-dbf19600-a99b-11eb-854f-760924980cc4.png)
+
 
 <!--
 **mosaleheen/mosaleheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaleheen&theme=vue)
+
