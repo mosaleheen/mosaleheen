@@ -1,5 +1,5 @@
 ### Hi there, I am a *catalysis* researcher, here to learn to code. 
-![224-2240244_homer-smart-big-imagenes-png-homero-intelectual](https://user-images.githubusercontent.com/15354922/121218542-d451c680-c850-11eb-93ac-73e13decf7e9.png)
+<img src=https://user-images.githubusercontent.com/15354922/121218542-d451c680-c850-11eb-93ac-73e13decf7e9.png width="400" height="250">
 
 
 
